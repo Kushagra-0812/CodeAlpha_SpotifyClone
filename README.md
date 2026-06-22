@@ -1,2 +1,18 @@
-# CodeAlpha_SpotifyClone
-Spotify-inspired Music Player built using HTML, CSS, and JavaScript with audio controls, playlist UI, and responsive design.
+# Spotify Clone
+
+A Spotify-inspired music player built using HTML, CSS, and JavaScript.
+
+## Features
+- Modern Spotify UI
+- Play/Pause functionality
+- Volume Control
+- Responsive Design
+- Playlist Interface
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## Author
+Kushagra Kumar
